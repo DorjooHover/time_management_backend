@@ -1,1 +1,6 @@
 export * from './user.schema'
+export * from './category.schema'
+export * from './profession.schema'
+export * from './service.schema'
+export * from './time.schema'
+export * from './order.schema'
